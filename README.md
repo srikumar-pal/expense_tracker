@@ -116,6 +116,10 @@ Web version (Flask/Django)
 📜 License
 This project is open-source and free to use for learning and educational purposes.
 
-markdown
-Copy code
 
+<img width="92" height="81" alt="Screenshot 2026-01-13 015002" src="https://github.com/user-attachments/assets/81666076-eb34-4c6e-87cb-1905d95ad163" />
+
+<img width="370" height="358" alt="Screenshot 2026-01-13 015052" src="https://github.com/user-attachments/assets/4007cee4-c009-4983-aa92-6f39bc67736f" />
+
+
+<img width="348" height="342" alt="Screenshot 2026-01-13 015232" src="https://github.com/user-attachments/assets/a98e97ff-0039-46c6-b013-cf5a716e7508" />
