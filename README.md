@@ -87,7 +87,7 @@ Budget value can be modified in gui.py
 
 
 
-🎯 Learning Outcomes
+🎯 Learning Outcomes 
 Python project structuring
 
 GUI development with Tkinter
