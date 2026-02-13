@@ -123,8 +123,6 @@ This project is open-source and free to use for learning and educational purpose
 
 
 
-
-
 <img width="370" height="358" alt="Screenshot 2026-01-13 015052" src="https://github.com/user-attachments/assets/4007cee4-c009-4983-aa92-6f39bc67736f" />
 
 
